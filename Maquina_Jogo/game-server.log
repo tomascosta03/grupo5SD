@@ -1,0 +1,66 @@
+2023-05-18 15:16:34,336 (INFO): a escutar no porto 8000
+2023-05-18 15:17:03,933 (INFO): o cliente com endereço ('127.0.0.1', 63089) ligou-se!
+2023-05-18 15:18:28,917 (INFO): a escutar no porto 8000
+2023-05-18 15:19:31,926 (INFO): a escutar no porto 8000
+2023-05-18 15:19:36,631 (INFO): o cliente com endereço ('127.0.0.1', 63329) ligou-se!
+2023-05-18 15:24:34,813 (INFO): a escutar no porto 8000
+2023-05-18 15:25:09,143 (INFO): a escutar no porto 8000
+2023-05-18 15:25:12,220 (INFO): o cliente com endereço ('127.0.0.1', 64090) ligou-se!
+2023-05-18 15:25:12,220 (DEBUG): o cliente enviou: "x max "
+2023-05-18 15:26:22,171 (INFO): a escutar no porto 8000
+2023-05-18 15:26:26,228 (INFO): o cliente com endereço ('127.0.0.1', 64221) ligou-se!
+2023-05-18 15:26:26,228 (DEBUG): o cliente enviou: "x max "
+2023-05-18 15:26:36,142 (INFO): a escutar no porto 8000
+2023-05-18 15:26:45,350 (INFO): o cliente com endereço ('127.0.0.1', 64267) ligou-se!
+2023-05-18 15:26:45,350 (DEBUG): o cliente enviou: "x max "
+2023-05-18 15:30:35,735 (INFO): a escutar no porto 8000
+2023-05-18 15:30:49,763 (INFO): o cliente com endereço ('127.0.0.1', 64518) ligou-se!
+2023-05-18 15:30:49,763 (DEBUG): o cliente enviou: "x max "
+2023-05-18 15:32:11,617 (INFO): a escutar no porto 8000
+2023-05-18 15:32:16,363 (INFO): o cliente com endereço ('127.0.0.1', 64681) ligou-se!
+2023-05-18 15:32:16,363 (DEBUG): o cliente enviou: "x max "
+2023-05-18 15:32:47,179 (INFO): a escutar no porto 8000
+2023-05-18 15:32:50,203 (INFO): o cliente com endereço ('127.0.0.1', 64726) ligou-se!
+2023-05-18 15:32:50,203 (DEBUG): o cliente enviou: "x max "
+2023-05-18 15:35:29,508 (INFO): a escutar no porto 8080
+2023-05-18 15:35:37,516 (INFO): o cliente com endereço ('127.0.0.1', 65156) ligou-se!
+2023-05-18 15:35:37,516 (DEBUG): o cliente enviou: "x max "
+2023-05-18 15:42:36,411 (INFO): a escutar no porto 80
+2023-05-18 15:42:47,208 (INFO): o cliente com endereço ('127.0.0.1', 49483) ligou-se!
+2023-05-18 15:42:47,208 (DEBUG): o cliente enviou: "x max "
+2023-05-18 15:43:28,121 (INFO): a escutar no porto 80
+2023-05-18 15:43:48,195 (INFO): o cliente com endereço ('127.0.0.1', 49604) ligou-se!
+2023-05-18 15:43:48,195 (DEBUG): o cliente enviou: "x max "
+2023-05-18 15:43:55,391 (INFO): a escutar no porto 80
+2023-05-18 15:44:00,222 (INFO): o cliente com endereço ('127.0.0.1', 49618) ligou-se!
+2023-05-18 15:44:00,222 (DEBUG): o cliente enviou: "x max "
+2023-05-18 15:44:24,769 (INFO): a escutar no porto 8000
+2023-05-18 15:44:27,939 (INFO): o cliente com endereço ('127.0.0.1', 49695) ligou-se!
+2023-05-18 15:44:27,939 (DEBUG): o cliente enviou: "x max "
+2023-05-18 15:46:00,238 (INFO): a escutar no porto 8000
+2023-05-18 17:43:14,362 (INFO): a escutar no porto 8000
+2023-05-18 17:43:22,152 (INFO): o cliente com endereço ('127.0.0.1', 63700) ligou-se!
+2023-05-18 17:43:22,152 (DEBUG): o cliente enviou: "x max "
+2023-05-18 23:00:42,383 (INFO): a escutar no porto 8000
+2023-05-19 17:02:41,301 (INFO): a escutar no porto 8000
+2023-05-19 17:02:47,201 (INFO): o cliente com endereço ('127.0.0.1', 53279) ligou-se!
+2023-05-19 17:03:28,683 (INFO): a escutar no porto 8000
+2023-05-19 17:03:46,943 (INFO): o cliente com endereço ('127.0.0.1', 53324) ligou-se!
+2023-05-19 17:05:08,693 (INFO): a escutar no porto 32000
+2023-05-19 17:05:13,476 (INFO): o cliente com endereço ('127.0.0.1', 53400) ligou-se!
+2023-05-19 17:08:30,016 (INFO): a escutar no porto 32001
+2023-05-19 17:08:38,311 (INFO): o cliente com endereço ('127.0.0.1', 53680) ligou-se!
+2023-05-19 17:12:25,512 (INFO): a escutar no porto 32002
+2023-05-19 17:12:30,783 (INFO): o cliente com endereço ('127.0.0.1', 53879) ligou-se!
+2023-05-19 17:16:56,924 (INFO): a escutar no porto 32003
+2023-05-19 17:17:03,735 (INFO): o cliente com endereço ('127.0.0.1', 54122) ligou-se!
+2023-05-19 17:23:51,124 (INFO): a escutar no porto 32003
+2023-05-19 17:23:55,761 (INFO): o cliente com endereço ('127.0.0.1', 59010) ligou-se!
+2023-05-19 17:26:09,852 (INFO): a escutar no porto 32003
+2023-05-19 17:26:13,839 (INFO): o cliente com endereço ('127.0.0.1', 59130) ligou-se!
+2023-05-19 17:31:54,739 (INFO): a escutar no porto 32003
+2023-05-19 17:31:56,109 (INFO): o cliente com endereço ('127.0.0.1', 59486) ligou-se!
+2023-05-19 17:39:09,231 (INFO): a escutar no porto 32003
+2023-05-19 17:39:13,739 (INFO): o cliente com endereço ('127.0.0.1', 59981) ligou-se!
+2023-05-19 17:44:10,210 (INFO): a escutar no porto 8000
+2023-05-19 17:44:16,267 (INFO): o cliente com endereço ('127.0.0.1', 60242) ligou-se!
