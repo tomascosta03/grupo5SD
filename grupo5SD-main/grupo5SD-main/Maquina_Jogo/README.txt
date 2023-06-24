@@ -1,0 +1,1 @@
+Nesta versão apresenta-se a implementação do GameMech que garante que todas as decisões sobre o jogo, em Game2 e em Player10 são na verdade decididos pelo GameMech. Esta é a base de trabalho para o passo seguinte, utilizar os sockets.
